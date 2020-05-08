@@ -1,6 +1,6 @@
 Prints terser ruby -v for use in shell prompts.
 
-crystal build ruby-version
+crystal build ruby-version.cr
 
 chmod +x ruby-version
 
