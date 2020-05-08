@@ -1,4 +1,4 @@
-Prints terser ruby -v for use in shell prompts.
+prints terser ruby -v for use in shell prompts.
 
 crystal build ruby-version.cr
 
