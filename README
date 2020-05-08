@@ -1,1 +1,7 @@
 Prints terser ruby -v for use in shell prompts.
+
+crystal build ruby-version
+
+chmod +x ruby-version
+
+mv ruby-version ~/bin
